@@ -1,0 +1,3 @@
+https://calc.ir.openfisca.fr/
+https://calc.ir.openfisca.fr/EM7
+https://github.com/GouvernementFR/calculette-impots-m-source-code/

@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/35068054/does-app-store-accept-qt-app-linked-with-qt-library-lgplv3
+https://news.ycombinator.com/item?id=4302517

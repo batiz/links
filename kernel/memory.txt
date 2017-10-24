@@ -1,0 +1,3 @@
+https://www.kernel.org/doc/Documentation/vm/hugetlbpage.txt
+https://lwn.net/Articles/250967/
+https://lwn.net/Articles/375096/

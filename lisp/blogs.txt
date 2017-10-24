@@ -1,0 +1,2 @@
+https://smashingboxes.com/blog/choosing-your-future-tech-stack-clojure-vs-elixir-vs-go/
+http://www.paulgraham.com/avg.html

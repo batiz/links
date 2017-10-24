@@ -1,0 +1,4 @@
+http://kripken.github.io/emscripten-site/
+https://github.com/kripken/emscripten/wiki
+https://github.com/kripken/emscripten
+https://github.com/kripken/BananaBread

@@ -1,0 +1,2 @@
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#go
+https://github.com/dariubs/GoBooks#books

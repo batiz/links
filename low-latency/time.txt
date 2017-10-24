@@ -1,0 +1,2 @@
+https://fr.wikipedia.org/wiki/RDTSC#Langages_C_ou_C.2B.2B
+https://en.wikipedia.org/wiki/Time_Stamp_Counter
